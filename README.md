@@ -6,7 +6,8 @@ The Hospital Insights Dashboard is a data visualization project developed using 
 This dashboard helps hospital administrators, doctors, and analysts make informed decisions, optimize resource allocation, and improve healthcare delivery.
 This Power BI project visualizes hospital data to provide key insights on total revenue, patient count, treatment costs, recovery rates, diagnosis trends, and department-wise performance. It helps healthcare professionals make informed, data-driven decisions through interactive visuals like bar charts, pie charts, and KPI cards.
 
-##Dataset --
+##Dataset -- 1. 
+2. https://github.com/AyushaSarvaiye/Power-BI---Dashboard/blob/main/Hosp.2.xlsx
 
 🎯 Key Features - 
 
