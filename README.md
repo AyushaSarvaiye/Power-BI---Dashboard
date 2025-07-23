@@ -12,7 +12,7 @@ This Power BI project visualizes hospital data to provide key insights on total 
 
 ##Dashboard Preview -- https://github.com/AyushaSarvaiye/Power-BI---Dashboard/blob/main/Screenshot%202025-07-23%20134818.png 
 
-##SQL Query --
+##SQL Query -- https://github.com/AyushaSarvaiye/Power-BI---Dashboard/blob/main/Final_Hosp.sql
 
 🎯 Key Features - 
 
