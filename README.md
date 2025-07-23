@@ -8,7 +8,9 @@ This Power BI project visualizes hospital data to provide key insights on total 
 
 ##Dataset -- 1. https://github.com/AyushaSarvaiye/Power-BI---Dashboard/blob/main/Hosp.1.xlsx 
 2. https://github.com/AyushaSarvaiye/Power-BI---Dashboard/blob/main/Hosp.2.xlsx 
-##Dashboard Preview -- 
+
+##Dashboard Preview -- https://github.com/AyushaSarvaiye/Power-BI---Dashboard/blob/main/Screenshot%202025-07-23%20134818.png 
+
 🎯 Key Features - 
 
 Total Patients Treated – summarized using card visuals.
